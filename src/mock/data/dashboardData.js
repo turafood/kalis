@@ -52,11 +52,11 @@ export const eCommerceData = {
             thisYear: {
                 value: 329489.21,
                 growShrink: 5.1,
-                comparePeriod: 'from last month',
+                comparePeriod: 'Ultimo mes',
                 chartData: {
                     series: [
                         {
-                            name: 'Sales',
+                            name: 'Ventas',
                             data: [
                                 240, 255, 210, 275, 230, 280, 220, 340, 305,
                                 350, 300, 420,

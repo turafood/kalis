@@ -6,7 +6,7 @@ export const projectDetailsData = {
     members: [],
     tasks: [],
     client: {
-        clientName: 'Acme Agency inc.',
+        clientName: 'Kalis - Medical Technology',
         skateHolder: {
             name: 'Jeremiah Minsk',
             img: '/img/avatars/thumb-2.jpg',
@@ -27,7 +27,7 @@ export const projectDetailsData = {
 export const projectListData = [
     {
         id: '27',
-        name: 'EVO SaaS',
+        name: 'Kalis MX',
         category: 'Web Application',
         desc: 'Most of you are familiar with the virtues of a programmer',
         attachmentCount: 12,
